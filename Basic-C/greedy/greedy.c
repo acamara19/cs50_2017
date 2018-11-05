@@ -1,6 +1,6 @@
  /**************************************************
  * Name: Ansoumane Camara                          *
- * Project: Greedy                                  *
+ * Project: Greedy                                 *
  * Description:                                    *
  * Implement a program that calculates the minimum *
  * number of coins required to give a user change  *
